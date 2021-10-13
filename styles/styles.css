@@ -1,0 +1,10 @@
+tr,
+td,
+table,
+th {
+  border: 2px solid black;
+}
+
+img {
+  height: 200px;
+}
